@@ -16,4 +16,4 @@ What is this project about?
 
 # Llamas! 
 
-! [A fine llame specimen](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLlama&psig=AOvVaw0SEseOMkKz0AnHZSxxi7sR&ust=1582307552252000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiH1Y7Z4OcCFQAAAAAdAAAAABAD)
+![A fine llame specimen](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Llama_lying_down.jpg/1200px-Llama_lying_down.jpg)
